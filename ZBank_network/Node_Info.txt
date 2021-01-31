@@ -1,0 +1,9 @@
+Node 1:
+Address: 0xF32D7f28f4B2B2E89BB256A1Dc7a1315feAF4DE9
+Password: 1010
+Port: 30303
+
+Node 2:
+Address: 0x86c07990916463beCe9020bf89c80c1cdd6Ea9Ad
+Password: 1010
+Port: 30304

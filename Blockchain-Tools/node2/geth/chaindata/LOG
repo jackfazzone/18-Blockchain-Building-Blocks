@@ -1,0 +1,42 @@
+=============== Jan 30, 2021 (CST) ===============
+17:08:37.851784 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:08:37.853779 db@open opening
+17:08:37.855773 version@stat F·[] S·0B[] Sc·[]
+17:08:37.856771 db@janitor F·2 G·0
+17:08:37.856771 db@open done T·2.9919ms
+17:08:37.868740 db@close closing
+17:08:37.868740 db@close done T·0s
+=============== Jan 30, 2021 (CST) ===============
+17:41:43.659614 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:41:43.660612 version@stat F·[] S·0B[] Sc·[]
+17:41:43.660612 db@open opening
+17:41:43.660612 journal@recovery F·1
+17:41:43.661627 journal@recovery recovering @1
+17:41:43.667592 memdb@flush created L0@2 N·15 S·1KiB "A\x11\x99..\xa9\x12a,v4":"\xab\xf0\x82..}(\xaa,v3"
+17:41:43.668632 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+17:41:43.675010 db@janitor F·3 G·0
+17:41:43.675010 db@open done T·14.3977ms
+17:41:43.690989 db@close closing
+17:41:43.690989 db@close done T·0s
+=============== Jan 30, 2021 (CST) ===============
+17:45:41.897109 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:45:41.897109 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+17:45:41.897109 db@open opening
+17:45:41.897109 journal@recovery F·1
+17:45:41.898106 journal@recovery recovering @3
+17:45:41.901099 memdb@flush created L0@5 N·1 S·389B "eth..[}\x14,v17":"eth..[}\x14,v17"
+17:45:41.901099 version@stat F·[2] S·1KiB[1KiB] Sc·[0.50]
+17:45:41.906131 db@janitor F·4 G·0
+17:45:41.906131 db@open done T·9.0221ms
+17:45:41.916188 db@close closing
+17:45:41.917143 db@close done T·955µs
+=============== Jan 30, 2021 (CST) ===============
+17:53:12.999771 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:53:12.999771 version@stat F·[2] S·1KiB[1KiB] Sc·[0.50]
+17:53:12.999771 db@open opening
+17:53:12.999771 journal@recovery F·1
+17:53:13.005746 journal@recovery recovering @6
+17:53:13.007742 memdb@flush created L0@8 N·1 S·389B "eth..[}\x14,v19":"eth..[}\x14,v19"
+17:53:13.013724 version@stat F·[3] S·1KiB[1KiB] Sc·[0.75]
+17:53:13.018742 db@janitor F·5 G·0
+17:53:13.018742 db@open done T·18.9712ms

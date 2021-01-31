@@ -1,0 +1,32 @@
+=============== Jan 30, 2021 (CST) ===============
+17:08:37.878714 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:08:37.882702 db@open opening
+17:08:37.883699 version@stat F·[] S·0B[] Sc·[]
+17:08:37.884696 db@janitor F·2 G·0
+17:08:37.884696 db@open done T·1.9944ms
+17:08:37.891677 db@close closing
+17:08:37.891677 db@close done T·0s
+=============== Jan 30, 2021 (CST) ===============
+17:41:43.706759 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:41:43.707755 version@stat F·[] S·0B[] Sc·[]
+17:41:43.707755 db@open opening
+17:41:43.707755 journal@recovery F·1
+17:41:43.708753 journal@recovery recovering @1
+17:41:43.712742 memdb@flush created L0@2 N·15 S·1KiB "A\x11\x99..\xa9\x12a,v4":"\xab\xf0\x82..}(\xaa,v3"
+17:41:43.715733 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+17:41:43.720765 db@janitor F·3 G·0
+17:41:43.720765 db@open done T·13.0097ms
+17:41:43.730733 db@close closing
+17:41:43.730733 db@close done T·0s
+=============== Jan 30, 2021 (CST) ===============
+17:45:41.930108 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:45:41.930108 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+17:45:41.930108 db@open opening
+17:45:41.930108 journal@recovery F·1
+17:45:41.931105 journal@recovery recovering @3
+17:45:41.933101 memdb@flush created L0@5 N·1 S·389B "eth..[}\x14,v17":"eth..[}\x14,v17"
+17:45:41.935127 version@stat F·[2] S·1KiB[1KiB] Sc·[0.50]
+17:45:41.940114 db@janitor F·4 G·0
+17:45:41.940114 db@open done T·10.0057ms
+17:45:41.949099 db@close closing
+17:45:41.950075 db@close done T·976.1µs
